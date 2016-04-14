@@ -1,12 +1,12 @@
 {
-    "name": "msftv2-Example",
+    "name": "microsoft-grant-express-example",
     "version": "1.0.0",
-    "description": "Example showing how to leverage Graph API authentication using Node, Express and Grant",
+    "description": "Example showing how to leverage Microsoft Graph and  v2 Endpoint authentication using Node, Express and Grant",
     "main": "app.js",
     "author": "Marc LaFleur",
     "dependencies": {
         "express": "^4.13.4",
         "express-session": "^1.13.0",
-        "grant-express": "^3.5.5"
+        "grant-express": "^3.6.0"
     }
 }
